@@ -3,7 +3,7 @@ Portfolio optimization using Python, PyPortfolioOpt, yfinance, and Modern Portfo
 
 
 Status: 
-🚧 Currently Under Development
+🚧
 This project is currently under development as part of my learning in quantitative finance and Python. The initial phase includes stock data acquisition, return analysis, and portfolio optimization using Modern Portfolio Theory (MPT).
 
 Objectives
