@@ -2,7 +2,7 @@
 Portfolio optimization using Python, PyPortfolioOpt, yfinance, and Modern Portfolio Theory.
 
 
-Status:
+Status: 
 🚧 Currently Under Development
 
 Overview
