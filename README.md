@@ -4,9 +4,7 @@ Portfolio optimization using Python, PyPortfolioOpt, yfinance, and Modern Portfo
 
 Status: 
 🚧 Currently Under Development
-
-Overview
-This project builds an investment portfolio optimization system using Modern Portfolio Theory (MPT). Historical stock data is collected using Yahoo Finance, expected returns and covariance matrices are calculated, and PyPortfolioOpt is used to generate an optimal portfolio that maximizes the Sharpe Ratio.
+This project is currently under development as part of my learning in quantitative finance and Python. The initial phase includes stock data acquisition, return analysis, and portfolio optimization using Modern Portfolio Theory (MPT).
 
 Objectives
 
